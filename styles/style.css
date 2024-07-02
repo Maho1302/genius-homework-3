@@ -456,7 +456,7 @@ h1 {
       rgba(1, 28, 68, 0.73) 84.61%,
       var(--color-main) 101.39%
     ),
-    url(/images/masks-for-face.jpg);
+    url(../images/masks-for-face.jpg);
 
   transition: transform 0.2s;
 }
@@ -472,7 +472,7 @@ h1 {
       rgba(1, 28, 68, 0.73) 84.61%,
       var(--color-main) 101.39%
     ),
-    url(/images/injections.jpg);
+    url(../images/injections.jpg);
 }
 
 .format-card:nth-child(3) {
@@ -482,7 +482,7 @@ h1 {
       rgba(1, 28, 68, 0.73) 84.61%,
       var(--color-main) 101.39%
     ),
-    url(/images/cleaning-face.jpg);
+    url(../images/cleaning-face.jpg);
 }
 
 .section-info-inner {
@@ -510,7 +510,7 @@ h1 {
   width: 100%;
   max-width: 422px;
   background-color: var(--color-main);
-  background-image: url(/images/form-background.png);
+  background-image: url(../images/form-background.png);
   border-radius: 32px;
 }
 
@@ -557,7 +557,7 @@ h1 {
 .footer {
   position: relative;
   background-color: var(--color-main);
-  background-image: url(/images/footer-background.png);
+  background-image: url(../images/footer-background.png);
   height: 278px;
   margin: 0 auto;
   display: flex;
@@ -672,7 +672,7 @@ address p {
 .modal {
   position: relative;
   background-color: var(--color-main);
-  background-image: url(/images/modal-background.png);
+  background-image: url(../images/modal-background.png);
   width: 100%;
   max-width: 720px;
   height: 100%;
